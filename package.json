@@ -1,0 +1,25 @@
+{
+  "name": "bar",
+  "version": "1.0.0",
+  "description": "param-pam-pam",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenfan/create-elm-app.git"
+  },
+  "author": "jenfan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenfan/create-elm-app/issues"
+  },
+  "homepage": "https://github.com/jenfan/create-elm-app#readme",
+  "dependencies": {
+    "create-elm-app": "^2.2.0"
+  }
+}
