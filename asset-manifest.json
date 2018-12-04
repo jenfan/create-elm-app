@@ -1,0 +1,11 @@
+{
+  "main.css": "/bar-app/static/css/main.bb659c90.chunk.css",
+  "main.js": "/bar-app/static/js/main.59381547.chunk.js",
+  "main.css.map": "/bar-app/static/css/main.bb659c90.chunk.css.map",
+  "main.js.map": "/bar-app/static/js/main.59381547.chunk.js.map",
+  "vendors~main.js": "/bar-app/static/js/vendors~main.f8b4eb45.chunk.js",
+  "vendors~main.js.map": "/bar-app/static/js/vendors~main.f8b4eb45.chunk.js.map",
+  "runtime~main.js": "/bar-app/static/js/runtime~main.ef19adde.js",
+  "runtime~main.js.map": "/bar-app/static/js/runtime~main.ef19adde.js.map",
+  "index.html": "/bar-app/index.html"
+}
