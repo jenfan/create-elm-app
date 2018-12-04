@@ -1,11 +1,11 @@
 {
-  "main.css": "/bar-app/static/css/main.bb659c90.chunk.css",
-  "main.js": "/bar-app/static/js/main.59381547.chunk.js",
-  "main.css.map": "/bar-app/static/css/main.bb659c90.chunk.css.map",
-  "main.js.map": "/bar-app/static/js/main.59381547.chunk.js.map",
-  "vendors~main.js": "/bar-app/static/js/vendors~main.f8b4eb45.chunk.js",
-  "vendors~main.js.map": "/bar-app/static/js/vendors~main.f8b4eb45.chunk.js.map",
-  "runtime~main.js": "/bar-app/static/js/runtime~main.ef19adde.js",
-  "runtime~main.js.map": "/bar-app/static/js/runtime~main.ef19adde.js.map",
-  "index.html": "/bar-app/index.html"
+  "main.css": "/create-elm-app/static/css/main.bb659c90.chunk.css",
+  "main.js": "/create-elm-app/static/js/main.ce5ff048.chunk.js",
+  "main.css.map": "/create-elm-app/static/css/main.bb659c90.chunk.css.map",
+  "main.js.map": "/create-elm-app/static/js/main.ce5ff048.chunk.js.map",
+  "vendors~main.js": "/create-elm-app/static/js/vendors~main.f8b4eb45.chunk.js",
+  "vendors~main.js.map": "/create-elm-app/static/js/vendors~main.f8b4eb45.chunk.js.map",
+  "runtime~main.js": "/create-elm-app/static/js/runtime~main.385f2701.js",
+  "runtime~main.js.map": "/create-elm-app/static/js/runtime~main.385f2701.js.map",
+  "index.html": "/create-elm-app/index.html"
 }
