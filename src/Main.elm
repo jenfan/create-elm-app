@@ -37,7 +37,7 @@ update msg model =
 view : Model -> Html Msg
 view model =
     div []
-        [ img [ src "/logo.svg" ] []
+        [ img [ src "logo.svg" ] []
         , h1 [] [ text "My first app gonna be deployed soon!" ]
         ]
 
